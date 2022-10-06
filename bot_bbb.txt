@@ -1,0 +1,14 @@
+      pessoas  comentarios perc_form perc_acum_form
+0        lula            3     37.5%          37.5%
+1   bolsonaro            2     25.0%          62.5%
+2          pt            2     25.0%          87.5%
+3          PL            1     12.5%         100.0%
+4        Ciro            0      0.0%         100.0%
+5      Simone            0      0.0%         100.0%
+6     d’Avila            0      0.0%         100.0%
+7       André            0      0.0%         100.0%
+8    Leonardo            0      0.0%         100.0%
+9       Pablo            0      0.0%         100.0%
+10       Vera            0      0.0%         100.0%
+11    Manzano            0      0.0%         100.0%
+12     Eymael            0      0.0%         100.0%
